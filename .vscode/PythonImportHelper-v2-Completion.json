@@ -1,0 +1,849 @@
+[
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "get_files_in_folder",
+        "importPath": "library.util.io",
+        "description": "library.util.io",
+        "isExtraImport": true,
+        "detail": "library.util.io",
+        "documentation": {}
+    },
+    {
+        "label": "write_file",
+        "importPath": "library.util.io",
+        "description": "library.util.io",
+        "isExtraImport": true,
+        "detail": "library.util.io",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data_from_gh_repo",
+        "importPath": "library.util.github",
+        "description": "library.util.github",
+        "isExtraImport": true,
+        "detail": "library.util.github",
+        "documentation": {}
+    },
+    {
+        "label": "FOLDER_DOCS_RAG_SOURCES",
+        "importPath": "library.constants.folders",
+        "description": "library.constants.folders",
+        "isExtraImport": true,
+        "detail": "library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_METADATA_AI_CORE_KEY",
+        "importPath": "library.constants.folders",
+        "description": "library.constants.folders",
+        "isExtraImport": true,
+        "detail": "library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_ENV",
+        "importPath": "library.constants.folders",
+        "description": "library.constants.folders",
+        "isExtraImport": true,
+        "detail": "library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "FOLDER_DOCS_RAG_SOURCES",
+        "importPath": "library.constants.folders",
+        "description": "library.constants.folders",
+        "isExtraImport": true,
+        "detail": "library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_ENV",
+        "importPath": "library.constants.folders",
+        "description": "library.constants.folders",
+        "isExtraImport": true,
+        "detail": "library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "dbapi",
+        "importPath": "hdbcli",
+        "description": "hdbcli",
+        "isExtraImport": true,
+        "detail": "hdbcli",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "AiCoreMetadata",
+        "importPath": "library.model.aicore",
+        "description": "library.model.aicore",
+        "isExtraImport": true,
+        "detail": "library.model.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "AiCoreMetadataJsonEncoder",
+        "importPath": "library.model.aicore",
+        "description": "library.model.aicore",
+        "isExtraImport": true,
+        "detail": "library.model.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "JSONEncoder",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "TIMEOUT_API_CALL",
+        "importPath": "library.constants.timings",
+        "description": "library.constants.timings",
+        "isExtraImport": true,
+        "detail": "library.constants.timings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_RETRY_API_CALL",
+        "importPath": "library.constants.timings",
+        "description": "library.constants.timings",
+        "isExtraImport": true,
+        "detail": "library.constants.timings",
+        "documentation": {}
+    },
+    {
+        "label": "TIMEOUT_API_CALL",
+        "importPath": "library.constants.timings",
+        "description": "library.constants.timings",
+        "isExtraImport": true,
+        "detail": "library.constants.timings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_RETRY_API_CALL",
+        "importPath": "library.constants.timings",
+        "description": "library.constants.timings",
+        "isExtraImport": true,
+        "detail": "library.constants.timings",
+        "documentation": {}
+    },
+    {
+        "label": "call_api",
+        "importPath": "library.util.api_requests",
+        "description": "library.util.api_requests",
+        "isExtraImport": true,
+        "detail": "library.util.api_requests",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "ChatCompletion",
+        "importPath": "llm_commons.proxy.openai",
+        "description": "llm_commons.proxy.openai",
+        "isExtraImport": true,
+        "detail": "llm_commons.proxy.openai",
+        "documentation": {}
+    },
+    {
+        "label": "Repo",
+        "importPath": "git",
+        "description": "git",
+        "isExtraImport": true,
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "initLogger",
+        "importPath": "library.util.logging",
+        "description": "library.util.logging",
+        "isExtraImport": true,
+        "detail": "library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "AiCoreMetadata",
+        "importPath": "library.fetch.aicore",
+        "description": "library.fetch.aicore",
+        "isExtraImport": true,
+        "detail": "library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "gen_ai_hub.proxy.langchain.openai",
+        "description": "gen_ai_hub.proxy.langchain.openai",
+        "isExtraImport": true,
+        "detail": "gen_ai_hub.proxy.langchain.openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "gen_ai_hub.proxy.langchain.openai",
+        "description": "gen_ai_hub.proxy.langchain.openai",
+        "isExtraImport": true,
+        "detail": "gen_ai_hub.proxy.langchain.openai",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy_client",
+        "importPath": "gen_ai_hub.proxy.core.proxy_clients",
+        "description": "gen_ai_hub.proxy.core.proxy_clients",
+        "isExtraImport": true,
+        "detail": "gen_ai_hub.proxy.core.proxy_clients",
+        "documentation": {}
+    },
+    {
+        "label": "HanaDB",
+        "importPath": "langchain_community.vectorstores.hanavector",
+        "description": "langchain_community.vectorstores.hanavector",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.hanavector",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationalRetrievalChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "load_docs_from_github",
+        "importPath": "library.data.data_store",
+        "description": "library.data.data_store",
+        "isExtraImport": true,
+        "detail": "library.data.data_store",
+        "documentation": {}
+    },
+    {
+        "label": "split_docs_into_chunks",
+        "importPath": "library.data.data_store",
+        "description": "library.data.data_store",
+        "isExtraImport": true,
+        "detail": "library.data.data_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_connection_to_hana_db",
+        "importPath": "library.data.hana_db",
+        "description": "library.data.hana_db",
+        "isExtraImport": true,
+        "detail": "library.data.hana_db",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "scripts.library.constants.folders",
+        "description": "scripts.library.constants.folders",
+        "peekOfCode": "ROOT = Path(__file__, \"..\", \"..\", \"..\", \"..\").resolve()\nFOLDER_SECRETS = Path(ROOT, \"config\", \"secrets\")\nFOLDER_DOCS_RAG_SOURCES = Path(ROOT, \"docs\", \"rag_sources\")\n# Files\nFILE_METADATA_AI_CORE_KEY = Path(\n    FOLDER_SECRETS, \"my_metadata_ai_core_key.json\"\n).resolve()\nFILE_ENV = Path(FOLDER_SECRETS, \".env\").resolve()",
+        "detail": "scripts.library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "FOLDER_SECRETS",
+        "kind": 5,
+        "importPath": "scripts.library.constants.folders",
+        "description": "scripts.library.constants.folders",
+        "peekOfCode": "FOLDER_SECRETS = Path(ROOT, \"config\", \"secrets\")\nFOLDER_DOCS_RAG_SOURCES = Path(ROOT, \"docs\", \"rag_sources\")\n# Files\nFILE_METADATA_AI_CORE_KEY = Path(\n    FOLDER_SECRETS, \"my_metadata_ai_core_key.json\"\n).resolve()\nFILE_ENV = Path(FOLDER_SECRETS, \".env\").resolve()",
+        "detail": "scripts.library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "FOLDER_DOCS_RAG_SOURCES",
+        "kind": 5,
+        "importPath": "scripts.library.constants.folders",
+        "description": "scripts.library.constants.folders",
+        "peekOfCode": "FOLDER_DOCS_RAG_SOURCES = Path(ROOT, \"docs\", \"rag_sources\")\n# Files\nFILE_METADATA_AI_CORE_KEY = Path(\n    FOLDER_SECRETS, \"my_metadata_ai_core_key.json\"\n).resolve()\nFILE_ENV = Path(FOLDER_SECRETS, \".env\").resolve()",
+        "detail": "scripts.library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_METADATA_AI_CORE_KEY",
+        "kind": 5,
+        "importPath": "scripts.library.constants.folders",
+        "description": "scripts.library.constants.folders",
+        "peekOfCode": "FILE_METADATA_AI_CORE_KEY = Path(\n    FOLDER_SECRETS, \"my_metadata_ai_core_key.json\"\n).resolve()\nFILE_ENV = Path(FOLDER_SECRETS, \".env\").resolve()",
+        "detail": "scripts.library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "FILE_ENV",
+        "kind": 5,
+        "importPath": "scripts.library.constants.folders",
+        "description": "scripts.library.constants.folders",
+        "peekOfCode": "FILE_ENV = Path(FOLDER_SECRETS, \".env\").resolve()",
+        "detail": "scripts.library.constants.folders",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_RETRY_API_CALL",
+        "kind": 5,
+        "importPath": "scripts.library.constants.timings",
+        "description": "scripts.library.constants.timings",
+        "peekOfCode": "TIME_RETRY_API_CALL = 20\nTIMEOUT_API_CALL = 600",
+        "detail": "scripts.library.constants.timings",
+        "documentation": {}
+    },
+    {
+        "label": "TIMEOUT_API_CALL",
+        "kind": 5,
+        "importPath": "scripts.library.constants.timings",
+        "description": "scripts.library.constants.timings",
+        "peekOfCode": "TIMEOUT_API_CALL = 600",
+        "detail": "scripts.library.constants.timings",
+        "documentation": {}
+    },
+    {
+        "label": "load_docs_from_github",
+        "kind": 2,
+        "importPath": "scripts.library.data.data_store",
+        "description": "scripts.library.data.data_store",
+        "peekOfCode": "def load_docs_from_github(\n    repo_url: str, repo_source_path: str, target_path: Path, glob_pattern: str = \"*.md\"\n):\n    tf_docs_all = []\n    # Fetch the data from the GitHub repository of Terraform provider for SAP BTP\n    repo_url = \"https://github.com/SAP/terraform-provider-btp.git\"\n    repo_source_path = \"docs\"\n    tf_source_path = Path(FOLDER_DOCS_RAG_SOURCES, \"tf_provider_btp\").resolve()\n    fetch_data_from_gh_repo(\n        repo_url=repo_url,",
+        "detail": "scripts.library.data.data_store",
+        "documentation": {}
+    },
+    {
+        "label": "split_docs_into_chunks",
+        "kind": 2,
+        "importPath": "scripts.library.data.data_store",
+        "description": "scripts.library.data.data_store",
+        "peekOfCode": "def split_docs_into_chunks(\n    documents: list[Document], chunk_size: int = 500, chunk_overlap: int = 0\n):\n    text_splitter = RecursiveCharacterTextSplitter(\n        chunk_size=chunk_size,\n        chunk_overlap=chunk_overlap,\n        length_function=len,\n        add_start_index=True,\n    )\n    chunks = text_splitter.split_documents(documents)",
+        "detail": "scripts.library.data.data_store",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "scripts.library.data.data_store",
+        "description": "scripts.library.data.data_store",
+        "peekOfCode": "log = logging.getLogger(__name__)\n# Load the documents from the GitHub repository\ndef load_docs_from_github(\n    repo_url: str, repo_source_path: str, target_path: Path, glob_pattern: str = \"*.md\"\n):\n    tf_docs_all = []\n    # Fetch the data from the GitHub repository of Terraform provider for SAP BTP\n    repo_url = \"https://github.com/SAP/terraform-provider-btp.git\"\n    repo_source_path = \"docs\"\n    tf_source_path = Path(FOLDER_DOCS_RAG_SOURCES, \"tf_provider_btp\").resolve()",
+        "detail": "scripts.library.data.data_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_connection_to_hana_db",
+        "kind": 2,
+        "importPath": "scripts.library.data.hana_db",
+        "description": "scripts.library.data.hana_db",
+        "peekOfCode": "def get_connection_to_hana_db():\n    conn = dbapi.connect(\n        address=os.environ.get(\"HANA_DB_ADDRESS\"),\n        port=os.environ.get(\"HANA_DB_PORT\"),\n        user=os.environ.get(\"HANA_DB_USER\"),\n        password=os.environ.get(\"HANA_DB_PASSWORD\"),\n        encrypt=True,\n        sslValidateCertificate=False,\n    )\n    return conn",
+        "detail": "scripts.library.data.hana_db",
+        "documentation": {}
+    },
+    {
+        "label": "AiCoreMetadata",
+        "kind": 6,
+        "importPath": "scripts.library.fetch.aicore",
+        "description": "scripts.library.fetch.aicore",
+        "peekOfCode": "class AiCoreMetadata(AiCoreMetadataDefinition):\n    def __init__(self):\n        self.authUrl = os.environ.get(\"AICORE_AUTH_URL\")\n        self.clientId = os.environ.get(\"AICORE_CLIENT_ID\")\n        self.clientSecret = os.environ.get(\"AICORE_CLIENT_SECRET\")\n        self.resourceGroup = os.environ.get(\"AICORE_RESOURCE_GROUP\")\n        self.apiBase = os.environ.get(\"AICORE_BASE_URL\")\n        self.targetAiCoreModel = json.loads(os.environ.get(\"TARGET_AI_CORE_MODEL\"))\n        self.apiAccessToken = get_api_access_token(self)\n        self.availableModels = get_available_ai_models(self)",
+        "detail": "scripts.library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_access_token",
+        "kind": 2,
+        "importPath": "scripts.library.fetch.aicore",
+        "description": "scripts.library.fetch.aicore",
+        "peekOfCode": "def get_api_access_token(aiCoreMetadata: AiCoreMetadataDefinition) -> str:\n    clientId = aiCoreMetadata.clientId\n    clientSecret = aiCoreMetadata.clientSecret\n    authUrl = aiCoreMetadata.authUrl\n    # Create the authorization string\n    authorizationString = f\"{clientId}:{clientSecret}\"\n    # Encode the authorization string\n    byte_data = authorizationString.encode(\"utf-8\")\n    # Base64 encode the byte data\n    clientSecretBase64 = base64.b64encode(byte_data).decode(\"utf-8\")",
+        "detail": "scripts.library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "get_available_ai_models",
+        "kind": 2,
+        "importPath": "scripts.library.fetch.aicore",
+        "description": "scripts.library.fetch.aicore",
+        "peekOfCode": "def get_available_ai_models(aiCoreMetadata: AiCoreMetadataDefinition) -> str:\n    token = aiCoreMetadata.apiAccessToken\n    apiBase = aiCoreMetadata.apiBase\n    # Create the URL to retrieve the available AI models\n    aiCoreLocation = f\"{apiBase}/v2/lm/scenarios/foundation-models/executables\"\n    # Create the headers for the request\n    headers = {\n        \"AI-Resource-Group\": aiCoreMetadata.resourceGroup,\n        \"Authorization\": f\"Bearer {token}\",\n    }",
+        "detail": "scripts.library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "create_configuration",
+        "kind": 2,
+        "importPath": "scripts.library.fetch.aicore",
+        "description": "scripts.library.fetch.aicore",
+        "peekOfCode": "def create_configuration(aiCoreMetadata: AiCoreMetadataDefinition) -> str:\n    apiBase = aiCoreMetadata.apiBase\n    token = aiCoreMetadata.apiAccessToken\n    resourceGroup = aiCoreMetadata.resourceGroup\n    configurationIDs = []\n    # Create the URL to create the configuration\n    aiCoreLocation = f\"{apiBase}/v2/lm/configurations\"\n    # Create the headers for the request\n    headers = {}\n    headers[\"AI-Resource-Group\"] = resourceGroup",
+        "detail": "scripts.library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "create_deployments",
+        "kind": 2,
+        "importPath": "scripts.library.fetch.aicore",
+        "description": "scripts.library.fetch.aicore",
+        "peekOfCode": "def create_deployments(aiCoreMetadata: AiCoreMetadataDefinition) -> list:\n    final_deployments = []\n    apiBase = aiCoreMetadata.apiBase\n    token = aiCoreMetadata.apiAccessToken\n    resourceGroup = aiCoreMetadata.resourceGroup\n    # Create the URL to create the configuration\n    aiCoreLocation = f\"{apiBase}/v2/lm/deployments\"\n    # Create the headers for the request\n    headers = {}\n    headers[\"AI-Resource-Group\"] = resourceGroup",
+        "detail": "scripts.library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "get_deployment_details",
+        "kind": 2,
+        "importPath": "scripts.library.fetch.aicore",
+        "description": "scripts.library.fetch.aicore",
+        "peekOfCode": "def get_deployment_details(aiCoreMetadata: AiCoreMetadataDefinition, deploymenId: str):\n    apiBase = aiCoreMetadata.apiBase\n    token = aiCoreMetadata.apiAccessToken\n    resourceGroup = aiCoreMetadata.resourceGroup\n    # Create the URL to create the configuration\n    aiCoreLocation = f\"{apiBase}/v2/lm/deployments/{deploymenId}\"\n    # Create the headers for the request\n    headers = {}\n    headers[\"AI-Resource-Group\"] = resourceGroup\n    headers[\"Authorization\"] = f\"Bearer {token}\"",
+        "detail": "scripts.library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "get_supported_models",
+        "kind": 2,
+        "importPath": "scripts.library.fetch.aicore",
+        "description": "scripts.library.fetch.aicore",
+        "peekOfCode": "def get_supported_models(parameters: dict) -> list[str]:\n    result = []\n    if parameters.get(\"description\") is not None:\n        split = parameters[\"description\"].split(\"supportedModels: \")\n        if len(split) > 1:\n            result = split[1].split(\", \")\n    return result",
+        "detail": "scripts.library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "scripts.library.fetch.aicore",
+        "description": "scripts.library.fetch.aicore",
+        "peekOfCode": "log = logging.getLogger(__name__)\n@dataclass\nclass AiCoreMetadata(AiCoreMetadataDefinition):\n    def __init__(self):\n        self.authUrl = os.environ.get(\"AICORE_AUTH_URL\")\n        self.clientId = os.environ.get(\"AICORE_CLIENT_ID\")\n        self.clientSecret = os.environ.get(\"AICORE_CLIENT_SECRET\")\n        self.resourceGroup = os.environ.get(\"AICORE_RESOURCE_GROUP\")\n        self.apiBase = os.environ.get(\"AICORE_BASE_URL\")\n        self.targetAiCoreModel = json.loads(os.environ.get(\"TARGET_AI_CORE_MODEL\"))",
+        "detail": "scripts.library.fetch.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "AiCoreMetadataJsonEncoder",
+        "kind": 6,
+        "importPath": "scripts.library.model.aicore",
+        "description": "scripts.library.model.aicore",
+        "peekOfCode": "class AiCoreMetadataJsonEncoder(JSONEncoder):\n    def default(self, o):\n        return o.__dict__\n@dataclass\nclass AiCoreMetadata:\n    authUrl: str\n    clientId: str\n    clientSecret: str\n    resourceGroup: str\n    apiBase: str",
+        "detail": "scripts.library.model.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "AiCoreMetadata",
+        "kind": 6,
+        "importPath": "scripts.library.model.aicore",
+        "description": "scripts.library.model.aicore",
+        "peekOfCode": "class AiCoreMetadata:\n    authUrl: str\n    clientId: str\n    clientSecret: str\n    resourceGroup: str\n    apiBase: str\n    resourceGroup: str\n    targetAiCoreModel: str\n    apiAccessToken: str\n    availableModels: str",
+        "detail": "scripts.library.model.aicore",
+        "documentation": {}
+    },
+    {
+        "label": "call_api",
+        "kind": 2,
+        "importPath": "scripts.library.util.api_requests",
+        "description": "scripts.library.util.api_requests",
+        "peekOfCode": "def call_api(\n    type: str, url: str, headers: dict, data: dict = None, message: str = None\n):\n    timeNeeded = 0\n    while timeNeeded < TIMEOUT_API_CALL:\n        try:\n            r = None\n            # Send the request to retrieve the access token\n            if type == \"POST\":\n                r = requests.post(url=url, headers=headers, data=data)",
+        "detail": "scripts.library.util.api_requests",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "scripts.library.util.api_requests",
+        "description": "scripts.library.util.api_requests",
+        "peekOfCode": "log = logging.getLogger(__name__)\n# Function to call a rest API\ndef call_api(\n    type: str, url: str, headers: dict, data: dict = None, message: str = None\n):\n    timeNeeded = 0\n    while timeNeeded < TIMEOUT_API_CALL:\n        try:\n            r = None\n            # Send the request to retrieve the access token",
+        "detail": "scripts.library.util.api_requests",
+        "documentation": {}
+    },
+    {
+        "label": "get_completion",
+        "kind": 2,
+        "importPath": "scripts.library.util.genai",
+        "description": "scripts.library.util.genai",
+        "peekOfCode": "def get_completion(prompt, model=\"gpt-35-turbo\", temperature=0, role=\"user\"):\n    messages = [{\"role\": role, \"content\": prompt}]\n    response = ChatCompletion.create(  # <---\n        deployment_id=model,  # <---\n        messages=messages,\n        temperature=temperature,\n    )\n    return response.choices[0].message[\"content\"]",
+        "detail": "scripts.library.util.genai",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data_from_gh_repo",
+        "kind": 2,
+        "importPath": "scripts.library.util.github",
+        "description": "scripts.library.util.github",
+        "peekOfCode": "def fetch_data_from_gh_repo(\n    repo_url: str,\n    repo_source_path: str,\n    repo_branch: str,\n    target_path: Path,\n):\n    # delete target path if it exists\n    if target_path.exists():\n        log.info(f\"Deleting {target_path}\")\n        shutil.rmtree(target_path)",
+        "detail": "scripts.library.util.github",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "scripts.library.util.github",
+        "description": "scripts.library.util.github",
+        "peekOfCode": "log = logging.getLogger(__name__)\n# Fetch all metadata from the GitHub repository for the metadata repo\ndef fetch_data_from_gh_repo(\n    repo_url: str,\n    repo_source_path: str,\n    repo_branch: str,\n    target_path: Path,\n):\n    # delete target path if it exists\n    if target_path.exists():",
+        "detail": "scripts.library.util.github",
+        "documentation": {}
+    },
+    {
+        "label": "read_file",
+        "kind": 2,
+        "importPath": "scripts.library.util.io",
+        "description": "scripts.library.util.io",
+        "peekOfCode": "def read_file(file_path: Path):\n    try:\n        with open(file_path, \"r\") as file:\n            filedata = file.read()\n        return filedata\n    except IOError:\n        log.warning(\"Can't open file >\" + str(file_path) + \"<\")\n        return None\n# Get json file content\ndef read_json_file(file_path):",
+        "detail": "scripts.library.util.io",
+        "documentation": {}
+    },
+    {
+        "label": "read_json_file",
+        "kind": 2,
+        "importPath": "scripts.library.util.io",
+        "description": "scripts.library.util.io",
+        "peekOfCode": "def read_json_file(file_path):\n    try:\n        # Opening JSON file\n        f = open(file_path)\n        # returns JSON object as a dictionary\n        data = json.load(f)\n        return data\n    except IOError:\n        log.warning(\"Can't open json file >\" + str(file_path) + \"<\")\n        return None",
+        "detail": "scripts.library.util.io",
+        "documentation": {}
+    },
+    {
+        "label": "write_file",
+        "kind": 2,
+        "importPath": "scripts.library.util.io",
+        "description": "scripts.library.util.io",
+        "peekOfCode": "def write_file(file_path, content):\n    try:\n        f = open(file_path, \"w\")\n        f.write(content)\n        f.close()\n        log.info(\"File written >\" + str(file_path) + \"<\")\n    except IOError:\n        log.warning(\"Can't write to file >\" + str(file_path) + \"<\")\n        return None\n# function to fetch all files in a folder with a glob pattern recursively",
+        "detail": "scripts.library.util.io",
+        "documentation": {}
+    },
+    {
+        "label": "get_files_in_folder",
+        "kind": 2,
+        "importPath": "scripts.library.util.io",
+        "description": "scripts.library.util.io",
+        "peekOfCode": "def get_files_in_folder(folder, glob_pattern):\n    files = []\n    for path in Path(folder).rglob(glob_pattern):\n        files.append(path)\n    return files",
+        "detail": "scripts.library.util.io",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "scripts.library.util.io",
+        "description": "scripts.library.util.io",
+        "peekOfCode": "log = logging.getLogger(__name__)\n# Read file and return content\ndef read_file(file_path: Path):\n    try:\n        with open(file_path, \"r\") as file:\n            filedata = file.read()\n        return filedata\n    except IOError:\n        log.warning(\"Can't open file >\" + str(file_path) + \"<\")\n        return None",
+        "detail": "scripts.library.util.io",
+        "documentation": {}
+    },
+    {
+        "label": "MyFormatterStream",
+        "kind": 6,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "class MyFormatterStream(logging.Formatter):\n    COLOR_RESET_COLORS = \"\\033[0;0m\"\n    COLOR_TIMESTAMP = \"\\033[38;5;241m\"\n    COLOR_HEADER = \"\\033[38;5;15m\"\n    COLOR_ERROR = \"\\033[38;5;160m\"\n    COLOR_CRITICAL = \"\\033[38;5;160m\"\n    COLOR_CHECK = \"\\033[38;5;10m\"\n    COLOR_INFO = \"\\033[38;5;241m\"\n    COLOR_SUCCESS = \"\\033[38;5;40m\"\n    COLOR_WARNING = \"\\033[38;5;11m\"",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "MyFormatterFile",
+        "kind": 6,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "class MyFormatterFile(logging.Formatter):\n    format_HEADER = \"#\" * 100 + \"\\n# %(msg)s\\n\" + \"#\" * 100\n    format_ERROR = \"[%(asctime)s] \" + \"ERROR      : %(msg)s\"\n    format_CHECK = \"[%(asctime)s] \" + \"CHECK      : %(msg)s\"\n    format_INFO = \"[%(asctime)s] \" + \"INFO       : %(msg)s\"\n    format_DEBUG = \"[%(asctime)s] \" + \"DEBUG      : %(msg)s\"\n    format_SUCCESS = \"[%(asctime)s] \" + \"SUCCESS    : %(msg)s\"\n    format_WARNING = \"[%(asctime)s] \" + \"WARNING    : %(msg)s\"\n    format_USERINPUT = \"[%(asctime)s] \" + \"INPUT      : %(msg)s\"\n    format_CRITICAL = \"[%(asctime)s] \" + \"CRITICAL     : %(msg)s\"",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "set_custom_logging_levels",
+        "kind": 2,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "def set_custom_logging_levels(config={}):\n    assert isinstance(config, dict), \"Configuration must be a dict\"\n    def get_level_func(level_name, level_num):\n        def _blank(self, message, *args, **kws):\n            if self.isEnabledFor(level_num):\n                # Yes, logger takes its '*args' as 'args'.\n                self._log(level_num, message, args, **kws)\n        _blank.__name__ = level_name.lower()\n        return _blank\n    for level_name, level_num in config.items():",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "log_exceptions",
+        "kind": 2,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "def log_exceptions(type, value, tb):\n    for line in traceback.TracebackException(type, value, tb).format(chain=True):\n        logging.exception(line)\n    logging.exception(value)\ndef initLogger():\n    set_custom_logging_levels(config)\n    logging.root.setLevel(10)\n    thisHandler = logging.StreamHandler(sys.stdout)\n    thisHandler.setLevel(LOGLEVEL)\n    thisHandler.setFormatter(MyFormatterStream())",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "initLogger",
+        "kind": 2,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "def initLogger():\n    set_custom_logging_levels(config)\n    logging.root.setLevel(10)\n    thisHandler = logging.StreamHandler(sys.stdout)\n    thisHandler.setLevel(LOGLEVEL)\n    thisHandler.setFormatter(MyFormatterStream())\n    logging.root.addHandler(thisHandler)\nsys.excepthook = log_exceptions",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "LOGLEVEL",
+        "kind": 5,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "LOGLEVEL = logging.INFO\nHEADER = logging.CRITICAL + 1\nUSERINPUT = HEADER + 1\nSUCCESS = USERINPUT + 1\nCHECK = SUCCESS + 1\nconfig = {\n    \"USERINPUT\": USERINPUT,\n    \"HEADER\": HEADER,\n    \"SUCCESS\": SUCCESS,\n    \"CHECK\": CHECK,",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "HEADER",
+        "kind": 5,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "HEADER = logging.CRITICAL + 1\nUSERINPUT = HEADER + 1\nSUCCESS = USERINPUT + 1\nCHECK = SUCCESS + 1\nconfig = {\n    \"USERINPUT\": USERINPUT,\n    \"HEADER\": HEADER,\n    \"SUCCESS\": SUCCESS,\n    \"CHECK\": CHECK,\n}",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "USERINPUT",
+        "kind": 5,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "USERINPUT = HEADER + 1\nSUCCESS = USERINPUT + 1\nCHECK = SUCCESS + 1\nconfig = {\n    \"USERINPUT\": USERINPUT,\n    \"HEADER\": HEADER,\n    \"SUCCESS\": SUCCESS,\n    \"CHECK\": CHECK,\n}\n# Set custom logging levels",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "SUCCESS",
+        "kind": 5,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "SUCCESS = USERINPUT + 1\nCHECK = SUCCESS + 1\nconfig = {\n    \"USERINPUT\": USERINPUT,\n    \"HEADER\": HEADER,\n    \"SUCCESS\": SUCCESS,\n    \"CHECK\": CHECK,\n}\n# Set custom logging levels\ndef set_custom_logging_levels(config={}):",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "CHECK",
+        "kind": 5,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "CHECK = SUCCESS + 1\nconfig = {\n    \"USERINPUT\": USERINPUT,\n    \"HEADER\": HEADER,\n    \"SUCCESS\": SUCCESS,\n    \"CHECK\": CHECK,\n}\n# Set custom logging levels\ndef set_custom_logging_levels(config={}):\n    assert isinstance(config, dict), \"Configuration must be a dict\"",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "config = {\n    \"USERINPUT\": USERINPUT,\n    \"HEADER\": HEADER,\n    \"SUCCESS\": SUCCESS,\n    \"CHECK\": CHECK,\n}\n# Set custom logging levels\ndef set_custom_logging_levels(config={}):\n    assert isinstance(config, dict), \"Configuration must be a dict\"\n    def get_level_func(level_name, level_num):",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "sys.excepthook",
+        "kind": 5,
+        "importPath": "scripts.library.util.logging",
+        "description": "scripts.library.util.logging",
+        "peekOfCode": "sys.excepthook = log_exceptions",
+        "detail": "scripts.library.util.logging",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.step02_fetch_metadata",
+        "description": "scripts.step02_fetch_metadata",
+        "peekOfCode": "def main():\n    load_dotenv(dotenv_path=str(FILE_ENV), verbose=True)\n    log.header(\"Preparing the environment for using the AI Core service.\")\n    # Extract the metadata for the AI Core system\n    ai_core_metadata = AiCoreMetadata()\n    write_file(\n        Path(FILE_METADATA_AI_CORE_KEY),\n        json.dumps(ai_core_metadata, indent=2, cls=AiCoreMetadataJsonEncoder),\n    )\nif __name__ == \"__main__\":",
+        "detail": "scripts.step02_fetch_metadata",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "scripts.step02_fetch_metadata",
+        "description": "scripts.step02_fetch_metadata",
+        "peekOfCode": "log = logging.getLogger(__name__)\ninitLogger()\n# Main function\ndef main():\n    load_dotenv(dotenv_path=str(FILE_ENV), verbose=True)\n    log.header(\"Preparing the environment for using the AI Core service.\")\n    # Extract the metadata for the AI Core system\n    ai_core_metadata = AiCoreMetadata()\n    write_file(\n        Path(FILE_METADATA_AI_CORE_KEY),",
+        "detail": "scripts.step02_fetch_metadata",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.step03_rag_exp_tf",
+        "description": "scripts.step03_rag_exp_tf",
+        "peekOfCode": "def main():\n    question = \"How to create a sub account with the Terraform provider for SAP BTP?\"\n    # Load environment variables\n    load_dotenv(dotenv_path=str(FILE_ENV), verbose=True)\n    # -------------------------------------------------------------------------------------\n    # Load the documents into the HANA DB to get them vectorized\n    # -------------------------------------------------------------------------------------\n    # Load the documents from a GitHub repository\n    repo_url = \"https://github.com/SAP/terraform-provider-btp.git\"\n    repo_source_path = \"docs\"",
+        "detail": "scripts.step03_rag_exp_tf",
+        "documentation": {}
+    }
+]
