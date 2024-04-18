@@ -1,7 +1,4 @@
-from firebase_admin import credentials, initialize_app, firestore
-import json
 import time
-import random
 from gen_ai_hub.proxy.langchain.openai import ChatOpenAI
 from gen_ai_hub.proxy.core.proxy_clients import get_proxy_client
 from gen_ai_hub.proxy.langchain.openai import OpenAIEmbeddings
@@ -15,14 +12,12 @@ from library.data.data_store import load_docs, split_docs_into_chunks
 from library.data.hana_db import get_connection_to_hana_db
 from pathlib import Path
 from dotenv import load_dotenv
-import time
 import math
+
 
 def main(input, uuid):
     start = time.time()
     question = f"You are an industrial recipe formulator. Generate recipes with industrial recipe steps from {input} based on the recipes in the database, the result is a JSON containing the following fields: allergens, ingredients, price, recipe, pieces, sustainability_index, nutrients, UUID: {uuid}, recipe name. Number the recipe steps with closing parentheses and return them as a single string using the special newline character. Give each recipe an original name. Enter ingredients as a single string, in liters and kilograms, and no more than 6 ingredients. Leave the sources field blank. Generate a sustainability score from 1 to 5 in the sustainability_index field, I just want a number in a string field. Include an empty price field. Finally, list the proteins, fats and carbohydrates for each recipe in the nutrients field as a single string. Indicate all quantities in grams and temperatures in degrees Celsius. Convert quantities for 100kg or 100L, do not change proportions. Return a single recipe. The id field must be named 'UUID'. The response must be formatted in JSON, it must absolutely be a class dict and nothing else. NO YAPPING. Don't add any comments, start the response with a bracket and end it with a closing bracket"
-
-
 
     # Load environment variables
     load_dotenv(dotenv_path=str(FILE_ENV), verbose=True)
@@ -110,7 +105,7 @@ def main(input, uuid):
         return_source_documents=True,
         memory=memory,
         verbose=False,
-        combine_docs_chain_kwargs=chain_type_kwargs
+        combine_docs_chain_kwargs=chain_type_kwargs,
     )
 
     # -------------------------------------------------------------------------------------
@@ -136,7 +131,6 @@ def main(input, uuid):
         sources.append(buff)
         print(doc.page_content)
 
-
     end = time.time()
 
     elapsed = end - start
@@ -147,6 +141,7 @@ def main(input, uuid):
     print(f"Total execution time: {minutes} minutes and {seconds:.2f} seconds")
 
     return result["answer"], sources
+
 
 if __name__ == "__main__":
     main()
