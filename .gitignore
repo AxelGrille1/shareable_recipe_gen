@@ -18,3 +18,4 @@ __pycache__/
 *.env
 *.code-workspace
 .DS_Store
+scripts/firebase_credentials.json
