@@ -135,5 +135,6 @@ if __name__ == "__main__":
                     concurrent.futures.wait(futures)
                 print("All threads have completed.")
             else:
-                print("Failed to retrieve recipe name or UUID from Firebase.")
+                continue
+                # print("Failed to retrieve recipe name or UUID from Firebase.")
         time.sleep(10)
