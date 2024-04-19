@@ -119,14 +119,21 @@ def get_data():
 
 
 if __name__ == "__main__":
+    previous_uuid = None
     init_firebase()
-    input_recipe, uuid = get_data()
-    if input_recipe and uuid:
-        with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
-            futures = [
-                executor.submit(thread_function, input_recipe, uuid) for _ in range(3)
-            ]
-            concurrent.futures.wait(futures)
-        print("All threads have completed.")
-    else:
-        print("Failed to retrieve recipe name or UUID from Firebase.")
+    while True:
+        input_recipe, uuid = get_data()
+        stored_uuid = uuid
+        if input_recipe and uuid:
+            if uuid != previous_uuid:
+                previous_uuid = uuid
+                with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+                    futures = [
+                        executor.submit(thread_function, input_recipe, uuid)
+                        for _ in range(3)
+                    ]
+                    concurrent.futures.wait(futures)
+                print("All threads have completed.")
+            else:
+                print("Failed to retrieve recipe name or UUID from Firebase.")
+        time.sleep(10)
